@@ -2,9 +2,9 @@ POST https://localhost:5001/Filme HTTP/1.1
 content-type: application/json
 
 {
-    "Titulo": "Hannibal",
-    "Genero": "Suspense",
-    "Duracao": 270
+    "Titulo": "AvatarV",
+    "Genero": "Aventura",
+    "Duracao": 140
 }
 
 

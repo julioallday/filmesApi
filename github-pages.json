@@ -1,0 +1,6 @@
+{
+  "github-pages": {
+    "type": "project",
+    "target": "dist"
+  }
+}
